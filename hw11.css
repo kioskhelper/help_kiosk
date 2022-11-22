@@ -1,0 +1,64 @@
+h1 {    
+    font-weight: lighter;
+    font-size: 150px;
+    text-align:center;
+}
+
+h5 {    
+    background-color: rgb(204, 191, 224);
+}
+
+p {
+    color : rgb(98, 98, 194);
+    font-family: 'Dongle', sans-serif;
+    font-size:28px;
+    text-align:center;
+    
+}
+
+h4{
+    background-color: rgb(204, 191, 224);
+    color: black;
+    font-size:30px;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Gamja Flower', cursive;
+}
+
+
+/* .card-image{
+   height: 300px;
+   width:auto; 
+} */
+
+.box1 {
+    position:relative;
+    top:30pt;
+    left:0px;
+    width:1000px;
+    height:1200px;
+
+    font-weight: normal;
+    background-color:rgb(204, 219, 252);
+    
+
+}
+body{
+
+    text-align:center;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1 span:nth-child(1){
+    color:rgb(210, 194, 255);
+}
+
+h1 span:nth-child(2){
+    color:rgb(253, 166, 231);
+}
+
+h1 span:nth-child(3){
+    color: rgb(207, 163, 248);
+}
